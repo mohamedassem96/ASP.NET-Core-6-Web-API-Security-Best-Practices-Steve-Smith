@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "29jUCyDTVZq/K+wuZwFzfbeigK//OSTm+m0bhVcsFpwc1EriTIoX6Q3zp7nXrNYIQRnmSZcW8FTkztHmGHmb8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\masem\\Downloads\\aspdotnet-core-6-web-api-best-practices\\06\\demos\\securing_apis\\JsBffSample\\FrontendHost\\FrontendHost.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\masem\\.nuget\\packages\\duende.bff\\1.1.0\\duende.bff.1.1.0.nupkg.sha512",
+    "C:\\Users\\masem\\.nuget\\packages\\duende.bff.yarp\\1.1.0\\duende.bff.yarp.1.1.0.nupkg.sha512",
+    "C:\\Users\\masem\\.nuget\\packages\\identitymodel\\5.2.0\\identitymodel.5.2.0.nupkg.sha512",
+    "C:\\Users\\masem\\.nuget\\packages\\identitymodel.aspnetcore\\4.1.2\\identitymodel.aspnetcore.4.1.2.nupkg.sha512",
+    "C:\\Users\\masem\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\6.0.0\\microsoft.aspnetcore.authentication.openidconnect.6.0.0.nupkg.sha512",
+    "C:\\Users\\masem\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\masem\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.10.0\\microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\masem\\.nuget\\packages\\microsoft.identitymodel.logging\\6.10.0\\microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "C:\\Users\\masem\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.10.0\\microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "C:\\Users\\masem\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "C:\\Users\\masem\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.0\\microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\masem\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.10.0\\system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "C:\\Users\\masem\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\masem\\.nuget\\packages\\yarp.reverseproxy\\1.0.0\\yarp.reverseproxy.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

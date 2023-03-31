@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\masem\\Downloads\\aspdotnet-core-6-web-api-best-practices\\06\\demos\\securing_apis\\JsBffSample\\FrontendHost\\FrontendHost.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\masem\\Downloads\\aspdotnet-core-6-web-api-best-practices\\06\\demos\\securing_apis\\JsBffSample\\FrontendHost\\FrontendHost.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\masem\\Downloads\\aspdotnet-core-6-web-api-best-practices\\06\\demos\\securing_apis\\JsBffSample\\FrontendHost\\FrontendHost.csproj",
+        "projectName": "FrontendHost",
+        "projectPath": "C:\\Users\\masem\\Downloads\\aspdotnet-core-6-web-api-best-practices\\06\\demos\\securing_apis\\JsBffSample\\FrontendHost\\FrontendHost.csproj",
+        "packagesPath": "C:\\Users\\masem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\masem\\Downloads\\aspdotnet-core-6-web-api-best-practices\\06\\demos\\securing_apis\\JsBffSample\\FrontendHost\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\masem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://devops.nupco.com/NUPCOCollection/iNUPCO/_packaging/INUPCO/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Duende.BFF": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Duende.BFF.Yarp": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
